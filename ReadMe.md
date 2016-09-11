@@ -1,4 +1,4 @@
-## Synopsis
+## Text-Editor
 
 This project, is a text editor built from scratch. You are probably familiar with a variety of different text editors, including relatively simple text editors that allow you to edit un-styled text (e.g., pico, Notepad, and TextEdit), and also more fully-featured text editors that allow you to do add formatting, run code, and more (e.g., Microsoft Word, Google Docs, Sublime, VI, Emacs, and IntelliJ). For this project, a basic text editor can be used to open, edit, and save plain text files.
 
