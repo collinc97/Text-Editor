@@ -4,7 +4,10 @@ This project, is a text editor built from scratch. You are probably familiar wit
 
 ## Installation
 
-- editor.java- This is the main file for the project and is what should be run individually in an IDE
+- editor.java - This is the main file for the project and is what should be run individually in an IDE
+- LinkedListText.java - Constructs the central data structure used in the editor
+- OpenSave.java - Implements open and save methods of editor
+- UndoRedoStack.java - Stores up to 100 editor commands in a stack to implement undo/redo function
 
 ## Features
 
