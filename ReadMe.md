@@ -30,4 +30,4 @@ Printing the current position - Pressing shortcut+p should print the top left co
 
 ## Motivation
 
-This project was a project completed while enrolled in Computer Science 61B at the Univeristy of Califorina at Berkeley.
+This project was a project completed while enrolled in Computer Science 61B at the Univeristy of Califorina at Berkeley in the Fall of 2016.
